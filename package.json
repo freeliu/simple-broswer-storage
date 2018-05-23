@@ -1,6 +1,6 @@
 {
   "name": "simple-broswer-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple javascript object that control browser's localStorage and sessionStorage",
   "main": "index.js",
   "scripts": {

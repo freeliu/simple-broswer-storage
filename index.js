@@ -32,3 +32,15 @@ export function localSet(name, value, expried) {
         localStorage.removeItem(name)
     }, expried)
 }
+
+export default {
+    session: {
+        set: sessionSet,
+        get: sessionStorage.getItem
+    },
+    local: {
+        set: localSet,
+        get: localStorage.getItem
+    }
+
+}
