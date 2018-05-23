@@ -1,0 +1,24 @@
+{
+  "name": "simple-broswer-storage",
+  "version": "1.0.0",
+  "description": "a simple javascript object that control browser's localStorage and sessionStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeliu/simple-broswer-storage.git"
+  },
+  "keywords": [
+    "storage",
+    "localStorage",
+    "sessionStorage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeliu/simple-broswer-storage/issues"
+  },
+  "homepage": "https://github.com/freeliu/simple-broswer-storage#readme"
+}
